@@ -1,0 +1,7 @@
+{
+  "tasks":{
+    "forward": "deno run -A --unstable-detect-cjs forward_git.ts",
+    "backward": "deno run -A --unstable-detect-cjs backward_git.ts"
+  },
+  "nodeModulesDir": "manual"
+}
