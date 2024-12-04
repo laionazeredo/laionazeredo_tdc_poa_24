@@ -1,0 +1,39 @@
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QIsso mesmo: tipos, console.log() e código com chaves!\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\Qlead dev @ ADP\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\Qlead dev @ ADP\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QTalk is cheap, show me the code!\\E$"}
+{"rule":"SEMICOLON_COLON_SPACING","sentence":"^\\Qwidth:500px\\E$"}
+{"rule":"CLICHE_384_DISPENSAR","sentence":"^\\QTensorflow.js: Dispensa apresentações.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QÉ uma lib de alta performance para manipulação de dataframes e tensores e plotagem básica de dados.\\E$"}
+{"rule":"GENERAL_GENDER_AGREEMENT_ERRORS","sentence":"^\\QDeno Deploy para publicar a aplicação na Edge para maximizar a experiência do usuário.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QNa esteira do Numpy e do crescimento do Python para fora da comunidade hacker do Linux, vieram ao mundo diversas bibliotecas que compõem a base do ecossistema e sua força atual;\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QEm 2007 temos o lançamento do scikit-learn, trazendo diversos algoritmos de machine learning com uma interface amigável e eficiênte;\\E$"}
+{"rule":"GENERAL_NUMBER_AGREEMENT_ERRORS","sentence":"^\\QEm 2008 chega o Pandas e seu Dataframe para lidar com dados tabulares;\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QEm 2007 temos o lançamento do scikit-learn, trazendo diversos algoritmos de machine learning com uma interface amigável e eficiente;\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QEcossistema Curva Libs Comunidade Performance\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_RULE","sentence":"^\\QPython ⬇️ ⬆️ ⬆️ ⬇️\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_RULE","sentence":"^\\QR ⏺️ ⏺️ ⏺️ ⏺️\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_RULE","sentence":"^\\QRust ⬆️ ⬇️ ⬇️ ⬆️\\E$"}
+{"rule":"GENERAL_NUMBER_AGREEMENT_ERRORS","sentence":"^\\QNão apenas dá como temos um ecossistema cada vez mais completo e abrangente no que tange às tarefas para analisar dados, treinar modelos e entregar data apps.\\E$"}
+{"rule":"CLICHE_384_DISPENSAR","sentence":"^\\QTensorFlow.js: Dispensa apresentações.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QÉ acelerado por WebGPU e pode rodar no browser.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QWebDNN: biblioteca para executar redes neurais pré-compiladas diretamente no browser, com performance próxima a do servidor.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QD3.js: A lib de facto quando se pensa em visualização de dados no mundo JS.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QPlotly JS: talvez uma das lib de visualização de dados mais populares no mundo Python tem seu porting para JavaScript.\\E$"}
+{"rule":"ERRO_DE_CONCORDNCIA_DO_GÉNERO_MASCULINO_O","sentence":"^\\QO JS/TS traz features bastante interessantes para o jogo quando se pensa em desenvolvimento de aplicações de inteligência ou intensiva em dados:\\E$"}
+{"rule":"CRASE_CONFUSION_2","sentence":"^\\QDesempenho: com WebGPU e WebAssembly, temos acesso a performance quase nativa.\\E$"}
+{"rule":"PT_BARBARISMS_REPLACE","sentence":"^\\QDesempenho: com WebGPU e WebAssembly, temos acesso a performance quase nativa.\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QDeno com Fresh para criação de aplicações web intensivas em dados rápidas e fácies de manter.\\E$"}
+{"rule":"PORTUGUESE_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDeno Deploy para publicar a aplicação na Edge para maximizar a experiência do usuário.\\E$"}
+{"rule":"SEMICOLON_COLON_SPACING","sentence":"^\\Qwidth:300px\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qwidth:300px\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpandas.js: bom, o nome já diz tudo!\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qarquero: lib bastante interessante para manipulação de dataframes, com uma sintaxe intuitiva e diversos utilitários que aumentam bastante a produtividade.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QÉ uma lib de alta performance para manipulação de dataframes e tensores e plotagem básica de dados.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\Qarquero: lib bastante interessante para manipulação de dataframes, com uma sintaxe intuitiva e diversos utilitários que aumentam bastante a produtividade.\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QCompromise: biblioteca incrível para manipulação e tratamento de texto, com uma interface intuitiva e blaaazing-faaast.\\E$"}
+{"rule":"BARBARISMS","sentence":"^\\QNatural: biblioteca com diversos utilitários para se trabalhar com linguagem natural, como tokenização, TF-IDS, N-gramas, distâncias entre strings e análise de sentimento.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QD3.js: a lib de facto quando se pensa em visualização de dados no mundo JS.\\E$"}
+{"rule":"GENERAL_NUMBER_AGREEMENT_ERRORS","sentence":"^\\QMath.js: biblioteca de matemática avançada com um parser de expressões bastante flexível.\\E$"}
+{"rule":"CLICHE_384_DISPENSAR","sentence":"^\\QTensorFlow.js: dispensa apresentações.\\E$"}
+{"rule":"ABREVIATIONS_PUNCTUATION","sentence":"^\\QArquero: lib bastante interessante para manipulação de dataframes, com uma sintaxe intuitiva e diversos utilitários que aumentam bastante a produtividade.\\E$"}
