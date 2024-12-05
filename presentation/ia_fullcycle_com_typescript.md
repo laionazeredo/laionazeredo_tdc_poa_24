@@ -44,8 +44,6 @@ lead dev @ ADP
 - *Talk is cheap, show me the code!*
   - *Data wrangling* com Jupyter, Deno e Danfo.js
   - Machine Learning com TensorFlow.js
-  - Webapp com Deno Fresh e TensorFlow.js
-  - Deploy com Deno Deploy
 
 ---
 
@@ -201,8 +199,6 @@ Deno rainha! Node nadinha!
 
 - *Data wrangling* com Jupyter, Deno e Danfo.js
 - Machine Learning com TensorFlow.js
-- Webapp com Deno Fresh e TensorFlow.js
-- Deploy com Deno Deploy
 
 ---
 # Link do Repo

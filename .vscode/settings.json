@@ -2,12 +2,7 @@
   "markdown.marp.themes": [
       "./presentation/themes/cybertopia-laion.css"
   ],
-  "ipynb.experimental.serialization": true,
-  "jupyter.themeMatplotlibPlots": true,
   "jupyter.toc.autoSave": true,
-  "notebook.defaultFormatter": "esbenp.prettier-vscode",
-  "notebook.formatOnCellExecution": true,
-  "notebook.formatOnSave.enabled": true,
   "notebook.lineNumbers": "on",
   "notebook.output.wordWrap": false,
   "deno.enable": true,
