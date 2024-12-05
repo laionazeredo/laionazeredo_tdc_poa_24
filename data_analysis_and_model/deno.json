@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "danfojs-node": "npm:danfojs-node@^1.1.2"
+  }
+}

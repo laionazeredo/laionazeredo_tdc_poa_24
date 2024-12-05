@@ -3,8 +3,6 @@
     "forward": "deno run -A  ./scripts/forward_git.ts",
     "backward": "deno run -A  ./scripts/backward_git.ts"
   },
-  "imports": {
-    "danfojs-node": "npm:danfojs-node@^1.1.2"
-  },
-  "nodeModulesDir": "manual"
+  "workspace":["./data_analysis_and_model"],
+  "nodeModulesDir": "auto"
 }

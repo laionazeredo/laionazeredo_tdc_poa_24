@@ -1256,8 +1256,12 @@
     }
   },
   "workspace": {
-    "dependencies": [
-      "npm:danfojs-node@^1.1.2"
-    ]
+    "members": {
+      "data_analysis_and_model": {
+        "dependencies": [
+          "npm:danfojs-node@^1.1.2"
+        ]
+      }
+    }
   }
 }
