@@ -43,6 +43,6 @@ Usaremos o TensorFlow.js para nos ajudar a criar uma Rede Neural simples e trein
 1. Clone o repositório
 2. vá para a raiz do projeto
 3. Execute o comando `deno install` no seu terminal
-4. Execute `deno task backward` no terminal algumas vezes até que no terminal indique que você está no `commit`marcado como início da demo
+4. Execute `deno task backward` no terminal algumas vezes até que no terminal indique que você está no `commit`marcado como 'Cria Notebook'
 5. Abra o jupyter notebook localizado em `./data_analysis_and_model/titanic_model.ipynb`
 6. No seu terminal vá executando `deno task forward` e veja o notebook ir se completando.
