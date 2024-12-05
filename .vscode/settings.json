@@ -9,5 +9,11 @@
   "notebook.formatOnCellExecution": true,
   "notebook.formatOnSave.enabled": true,
   "notebook.lineNumbers": "on",
-  "notebook.output.wordWrap": false
+  "notebook.output.wordWrap": false,
+  "deno.enable": true,
+  "typescript.validate.enable": false,
+  "javascript.validate.enable": false,
+  "deno.lint": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
 }
+
